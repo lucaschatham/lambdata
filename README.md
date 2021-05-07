@@ -37,4 +37,8 @@ In oop_examples:
 
 
 # License
+<<<<<<< HEAD
 -MIT License
+=======
+-MIT License
+>>>>>>> a8af4f918a18d1f734d40298be54d85ff19867db
