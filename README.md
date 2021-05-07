@@ -1,4 +1,4 @@
-#### Welcome to Lambdata
+# Welcome to Lambdata
 
 This repo is dedicated to completing the requirements for Lambda School's Unit 3, Sprint 1 requirements. 
 
@@ -12,7 +12,7 @@ This repo includes the following:
 
 4. One basic pytest, docstrings wherever PEP 8 demands, and the MIT license. 
 
-#### Crucial Components
+# Crucial Components
 In lambdata:
 -test_helper_functions_class.py
 -helper_functions.py
@@ -29,12 +29,12 @@ In oop_examples:
 -test_example.py
 -example.py
 
-#### Dependencies
+# Dependencies
 -pandas
 -numpy
 -scikit-learn
 -pytest
 
 
-#### License
+# License
 -MIT License
