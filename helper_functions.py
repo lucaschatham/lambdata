@@ -10,7 +10,7 @@ from sklearn.utils import shuffle
 
  # This function randomizes variables
 def randomize(df, seed):
-    random_this = random.shuffle(df,random_state=seed)
+    random_this = shuffle(df,random_state=seed)
     return random_this
 
 
